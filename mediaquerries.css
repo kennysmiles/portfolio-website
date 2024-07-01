@@ -80,15 +80,15 @@
   }
 
   .contact_links {
-    font-size: 0.7rem;
+    font-size: 1rem;
     display: flex;
     flex-direction: column;
     right: 50;
   }
 
   .contact-icon {
-    width: 15px;
-    height: 15px;
+    width: 30px;
+    height: 30px;
   }
 
   .logo {
